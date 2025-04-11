@@ -13,25 +13,6 @@ In high-density cities with growing electric vehicle usage, handling customer co
 
 ---
 
-## 📂 Project Structure
-
-```
-├── raw_data/
-│   └── complaint_tickets.csv            # Complaint ticket data with coordinates
-├── output/
-│   └── marker_clustering.html           # Interactive map showing clustered ticket locations
-│   └── Chattarpur_Jan_clustering.html   # Clustered map output for Chattarpur hub
-├── reports/
-│   └── Cluster_Planning.xlsx            # Technician requirement planning by area
-├── scripts/
-│   └── map_clustering.py                # Python code for generating clustered maps using Folium
-├── images/
-│   └── cluster_summary_screenshot.jpeg  # Visual summary of area planning
-├── README.md
-```
-
----
-
 ## 🗺️ Technologies Used
 
 - **Python**
@@ -57,14 +38,6 @@ In high-density cities with growing electric vehicle usage, handling customer co
 
 - 📈 **Data-Driven Service Optimization**  
   Helps reduce complaint resolution time by improving resource allocation and zone coverage.
-
----
-
-## 📈 Example Output
-
-![Cluster Summary](images/cluster_summary_screenshot.jpeg)
-
-![Chattarpur Map](output/Chattarpur_Jan_clustering.html)
 
 ---
 
