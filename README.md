@@ -42,7 +42,7 @@ In high-density cities with growing electric vehicle usage, handling customer co
 ---
 ## 🗺 Cluster Maps
 
-- Chatterpur clustering map : [Click here to open map](https://drive.google.com/file/d/1dGjObhCPh1gj7sbZJ9DvD24m2Xq30ipT/view?usp=drive_link)
+- Chatterpur clustering map : [Click here to open map](file:///D:/Documents/Clustering%20Python/Chatterpur_Jan_clustering.html)
 - Greater Noida clustering map : [Click here to open map](https://drive.google.com/file/d/1zZjCUEk6OU3SxrZUqv83Xw7Gln6YTQJL/view?usp=drive_link)
 - Mundka clustering map : [Click here to open map](https://drive.google.com/file/d/1vH188uo4iChZztMqMxGfRuKc5ipmyGUv/view?usp=drive_link)
 - Sahibabad clustering map : [Click here to open map](https://drive.google.com/file/d/1C2S2_esGB7xORkBDQH2wQ25hQBZNlDq0/view?usp=drive_link)
